@@ -4,8 +4,8 @@ My homeworks from "Python for analyst" course
 
 Here is a collection of my past work and projects from my time learning Python for Analyst.
 
-Content:
-lesson-2: Working with the Pandas library, part 1. Loading data and analyzing its structure
+Content:\n
+lesson-2: Working with the Pandas library, part 1. Loading data and analyzing its structure\n
 lesson-3: Working with the Pandas library, part 2. Data manipulation
 lesson-4: Preliminary data analysis and visualization with Matplotlib and Seaborn
 lesson-5: Statistics in the work of an analyst with the Scipy library
