@@ -18,4 +18,4 @@ lesson-6: Linear Algebra with Numpy Library
 
 lesson-7: Data preprocessing and building predictive models in Scikit-learn
 
-lesson-8: Improving the quality of predictive models. Feature Engineering
+Course project: Improving the quality of predictive models. Feature Engineering
